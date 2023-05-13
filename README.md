@@ -16,16 +16,17 @@ The Credit Building App is a web application designed to help customers build th
 
 The Credit Building App includes the following features:
 
-Credit score monitoring: Users can view their credit scores and track changes over time.
-Personalized credit-building plan: Users receive a personalized plan with customized steps to improve their credit scores.
-Educational resources: The app provides educational resources to help users understand how credit scores work and how to improve them.
-SMS reminders: Users receive SMS reminders to pay their bills on time and keep their credit utilization low.
-User authentication: Users can create an account and log in to access their personalized credit-building plan and other features.
+1. Credit score monitoring: Users can view their credit scores and track changes over time.
+2. Personalized credit-building plan: Users receive a personalized plan with customized steps to improve their credit scores.
+3. Educational resources: The app provides educational resources to help users understand how credit scores work and how to improve them.
+4. SMS reminders: Users receive SMS reminders to pay their bills on time and keep their credit utilization low.
+5. User authentication: Users can create an account and log in to access their personalized credit-building plan and other features.
 
-### Create a .env file with the following environment variables:
-makefile
+#### Create a .env file with the following environment variables:
 
-#### Copy code
+_makefile_
+
+**Copy Code**
 
 ```
 MONGODB_URI=<your MongoDB connection string>
@@ -43,3 +44,17 @@ There are several potential improvements that could be made to the Credit Buildi
 3. More advanced educational resources, such as videos and interactive tutorials.
 4. Gamification features to encourage users to engage with the app and stick to their credit-building plan.
 5. Integration with additional communication channels, such as email and push notifications, to provide users with more options for receiving reminders and updates.
+
+
+## Contact
+
+If you have any questions or feedback about this project, please feel free to reach out to us:
+
+- Email: [example@email.com](mailto:example@email.com)
+- Twitter: [@example](https://twitter.com/example)
+- GitHub: [github.com/example](https://github.com/example)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
